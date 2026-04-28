@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bla bla bla bla bla
 aljhfjlki;asdfhbh a
 12345
@@ -6,3 +7,6 @@ aljhfjlki;asdfhbh a
 this is a new start
 >>>>>>> f4d23bbedbda9ca9086da1c3b17bc451ba6e2863
 conflict 
+=======
+this is a new start
+>>>>>>> 7eec7da52bb34507fb20671f9be962d3b11eb6c6
