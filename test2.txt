@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a;fhbjlk;iasdjfbhlaksdf
 asdlkjf;asdhbflk 
 hjklasdfkha snldj.fk 
@@ -7,3 +8,13 @@ august type this
 hello ...
 hello this is puy
 this is Ziyang
+=======
+a;fhbjlk;iasdjfbhlaksdf
+asdlkjf;asdhbflk 
+hjklasdfkha snldj.fk 
+adsf
+\al;jfahsdjfklhasbdfk.lahsdbfjlkasdf
+august type this
+hello ...
+hello this is puy
+>>>>>>> f93d57dc2e3cee2144f82b77bb817713d1d8c230
